@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "📖 miru's notes",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "notes.mirzahiday.at",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
@@ -30,26 +30,26 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#cdd6f4", // Text
+          lightgray: "#bac2de", // Subtext0
+          gray: "#a6adc8", // Subtext1
+          darkgray: "#585b70", // Surface2
+          dark: "#313244", // Surface0
+          secondary: "#89b4fa", // Blue
+          tertiary: "#94e2d5", // Teal
+          highlight: "rgba(137, 180, 250, 0.15)", // Blue with opacity
+          textHighlight: "#f9e2af88", // Yellow with opacity
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#1e1e2e", // Base
+          lightgray: "#313244", // Surface0
+          gray: "#45475a", // Surface1
+          darkgray: "#cdd6f4", // Text
+          dark: "#f5e0dc", // Rosewater
+          secondary: "#89b4fa", // Blue
+          tertiary: "#94e2d5", // Teal
+          highlight: "rgba(137, 180, 250, 0.15)", // Blue with opacity
+          textHighlight: "#f9e2af88", // Yellow with opacity
         },
       },
     },

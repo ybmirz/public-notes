@@ -28,7 +28,7 @@ tags:
 **mirzahiday.at**:
 - [ ] main website: built using wasm, running a container like three.js operation
 - [ ] visual ctf within the site itself, landing towards some notes in this yappa
-- [ ] 
+- [ ] make notes site to play music as people browse - add animations and coffee moves
 ##### Yaps:
 - [ ] Notes on https://www.youtube.com/watch?v=S1cWUtgQe_Q (what it means to feel like betraying your life and what you can learn) - listening to yourself
 	- [ ] Relationship of this notion to *how deep you can look under the hood*
@@ -45,6 +45,8 @@ tags:
 - [ ] enshittificatoin in research
 - [ ] performative media
 - [ ] existentialism and mental health
+- [ ] Notes on [the consequence of one's first programming language](https://dl.acm.org/doi/pdf/10.1145/800088.802823)
+
 
 **tweets:**
 - [ ] your bookmarks

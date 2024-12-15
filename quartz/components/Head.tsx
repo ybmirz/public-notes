@@ -196,6 +196,16 @@ export default (() => {
         <link rel="icon" href={iconPath} />
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
+        <script
+          defer
+          data-domain="mirzahiday.at"
+          src="https://anal.mirzahiday.at/js/script.file-downloads.hash.pageview-props.tagged-events.js"
+        ></script>
+        <script
+          defer
+          data-domain="mirzahiday.at"
+          src="https://plausible.io/js/script.local.js"
+        ></script>
         {css.map((resource) => CSSResourceToStyleElement(resource, true))}
         {js
           .filter((resource) => resource.loadTime === "beforeDOMReady")

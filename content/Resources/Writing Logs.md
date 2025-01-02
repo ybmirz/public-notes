@@ -46,6 +46,7 @@ tags:
 - [ ] performative media
 - [ ] existentialism and mental health
 - [ ] Notes on [the consequence of one's first programming language](https://dl.acm.org/doi/pdf/10.1145/800088.802823)
+- [ ] https://youtu.be/rzzxFuyJX5E?si=qQnlZeIYYl0naBhv nietzhsce
 
 
 **tweets:**

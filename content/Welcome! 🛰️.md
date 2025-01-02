@@ -38,7 +38,7 @@ Here you'll find my thoughts on:
 
 **My Digital Life:**
 - the things i listen to [(a musing of my emotional state)](https://stats.fm/xenonial)
-- my actual [developer portfolio]()
+- my actual [developer portfolio](https://github.com/ybmirz)
 - check out [my linux rices](https://github.com/ybmirz/dotfiles):
 <a href="https://ibb.co/nD7cFm3"><img src="https://i.ibb.co/p3fzSwW/241215-16h09m42s-screenshot.png" alt="241215-16h09m42s-screenshot" border="0"></a>
 <a href="https://ibb.co/6B9k6t1"><img src="https://i.ibb.co/16ykHXd/241215-16h53m56s-screenshot.png" alt="241215-16h53m56s-screenshot" border="0"></a>

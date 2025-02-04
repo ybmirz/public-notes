@@ -14,6 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: {
       provider: "plausible",
+      host: "https://anal.mirzahiday.at",
     },
     locale: "en-US",
     baseUrl: "notes.mirzahiday.at",

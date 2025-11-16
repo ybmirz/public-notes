@@ -5,21 +5,68 @@ tags:
 
 ##### Research:
 - [x] Notes on first submission in a professional conference. ✅ 2024-12-14
-- [ ] Applications of Quantum Machine Learning
+- [x] Applications of Quantum Machine Learning ✅ 2025-11-16
 - [ ] Variational Auto Encoders
 - [ ] Analysis of Willow's Paper
+- [ ] Post Quantum Cryptography on Blockchain
+
+##### Reading Materials
+- [ ] Robert Carver - Advanced Futures Trading Strategies
+- [ ] Giuseppe A. Paleologo - Advanced Portfolio Management
+- [ ] Michael Isichenko - Quantitative Portfolio Management
+- [ ] Guido Bonatti - Book of Astronomy
+- [ ] https://genai-handbook.github.io/
+- [ ] Freud - Three Essays on the Theory of Sexuality
+- [ ] Freud - The Interpretation of Dreams
+- [ ] Sakurai - Modern Quantum Mechanics
+- [ ] Shankar - Principles of Quantum Mechanics
+- [ ] McIntyre - Quantum Mechanics: Paradigm
+- [ ] Selected Stories of Anton Chekhov
+- [ ] Carl Jung - Man and His Symbols
+- [ ] Carl Jung - The Archetypes and The Collective Unconscious
+- [ ] Jung - The relations between the Ego and the Unconscious
+- [ ] Jung - Synchronicity: An Acausal Connecting Principal
+- [ ] Jung - Conflicts in the Child's Soul
+- [ ] Jung - the Red Book
+- [ ] Ibn' Sina - Book of the Cure
+- [ ] Ibn' Sina - Al Qanun fi al tibb
+- [ ] Khaldun - an introduction to history
+- [ ] Ibn' Rushd - Faith and Reason in Islam
+- [ ] Ibn' Rushd - The Incoherence of the Incoherence
+- [ ] Goggins - The Hard Things about Hard Things
+- [ ] Aslan - No God but God
+- [ ] Robert - Dancing with Qubits
+- [ ] Great Expectations - Charles Dickens
+- [ ] The Catcher in the Rye - J.D. Salinger
+- [ ] Wuthering Heights - Emily Bronte
+- [ ] The Sheltering Sky - Paul Bowles
+- [ ] My obsession with stories
+---
+
+The iead of 
+
 ##### Books:
-- [ ] The Richest Man in Babylon
-- [ ] The Alchemist
-- [ ] White Nights
-- [ ] The Brother's Karamazov
-- [ ] Notes from the Underground
-- [ ] The Sons
-- [ ] The Castle
-- [ ] Meditations
+- [x] The Richest Man in Babylon ✅ 2025-04-22
+- [x] The Alchemist ✅ 2025-04-22
+- [x] White Nights ✅ 2025-04-22
+- [ ] The Brother's Karamazov - Dostoyevsky
+- [x] Notes from the Underground ✅ 2025-04-22
+- [ ] The Sons - Kafka
+- [ ] The Castle - Kafka 
+- [ ] Meditations - Aurelius
 - [ ] Aristotle's Writings - From metaphysics to logic
-- [ ] Zarathustra 
-- [ ] Zero to one
+- [x] Zarathustra - Nietszhes ✅ 2025-05-30
+- [x] Zero to one - Thiel ✅ 2025-05-30
+- [ ] No God but God - Reza Aslan
+- [ ] Good Strategy / Bad Strategy - Richard Rumelt
+- [ ] Men without Women - Murakami
+- [ ] The History of Money - Jack Weatherford
+- [ ] The Idiot - Dostoyevsky
+- [ ] The dream of a ridiculous man - Dostoyevsky
+- [ ] A thousand splendid sons - Khaled Hoseini
+- [ ] Dance Dance Dance - Murakami
+
+
 ##### Project:
 **Kota**:
 - [ ] Philosophy behind kota and third places
@@ -50,8 +97,22 @@ tags:
 - [ ] Notes on [the consequence of one's first programming language](https://dl.acm.org/doi/pdf/10.1145/800088.802823)
 - [ ] https://youtu.be/rzzxFuyJX5E?si=qQnlZeIYYl0naBhv nietzhsce
 - [ ] Honey scam: Products should not be regarded as affliate and/or part of affliate marketing
-- [ ] 
+- [ ] Cyberneolibertarianism, the whole earth catalog - the philosophy behind developing technology and accelerationism.  "the Goliath of totalitarianism will be brought down by the David of the microchip - communications revolution"  by Reagan, supporters under clinton
+	- [ ] Using this idea of convolution between the government and the free market, resulting in the nature of the existing tech landscape. What's my purview? Cyberpunk and Cyber 
+- [ ] John perry barlow for the cyber liberal true freedom method (taught in VCs) unbounded communication
+- [ ] the act of being great; breakdown of articles and interviews 
+- [ ] the act of polymath
+- [ ] my notorious childhood - a breakdown
+- [ ] cluely - everyone's making recording devices; my own dream too.
+- [ ] theculturist - a break down of cultural significance in academia during the greek period
+- [ ] april is almost ending :( - the lie 
+- [ ] our diaries are basically our social media at this point 
+- [ ] a performative live without meaning
 
+**business-related thoughts**
+- [ ] what it means to woe-fully own (and god forbid run) a business 
+- [ ] b2b marketing - UGC content
+- [ ] everyone's an author, everyone's a writer, everyone's a builder now - what it means to be alive
 
 **tweets:**
 - [ ] your bookmarks

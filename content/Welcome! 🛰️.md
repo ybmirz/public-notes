@@ -30,7 +30,8 @@ Here you'll find my thoughts on:
 - a passionate researcher and software developer, actively researching in quantum computation (the goal is to exploit fundamental physics for our uses!) with a day job in software development.
 - i love the concept of third places, human behaviour and learning.
 	- i find human behaviour so fascinating, it's as unpredictable as quantum mechanics! 
-- For the MBTI pseudo-scientists: INTJ
+	- i have found a new love: coffee! Well more accurately, I've gone even deeper than before within the coffee space and going step by step to fulfilling my life-long goal of opening a coffee shop.
+- For the MBTI pseudo-scientists: INTJ / ENTP 
 - avid gamer (from competitive fps to JRPGs, currently getting into strategy)
 - [Anime watcher](https://anilist.co/user/xenonial/) (i love delusional stories)
 - dostoyevsky, kafka, and sherlock [enjoyer](https://www.goodreads.com/user/show/24046711-miru)

@@ -41,9 +41,6 @@ tags:
 - [ ] Wuthering Heights - Emily Bronte
 - [ ] The Sheltering Sky - Paul Bowles
 - [ ] My obsession with stories
----
-
-The iead of 
 
 ##### Books:
 - [x] The Richest Man in Babylon ✅ 2025-04-22
@@ -59,25 +56,24 @@ The iead of
 - [x] Zero to one - Thiel ✅ 2025-05-30
 - [ ] No God but God - Reza Aslan
 - [ ] Good Strategy / Bad Strategy - Richard Rumelt
-- [ ] Men without Women - Murakami
+- [x] Men without Women - Murakami ✅ 2026-02-24 
 - [ ] The History of Money - Jack Weatherford
-- [ ] The Idiot - Dostoyevsky
-- [ ] The dream of a ridiculous man - Dostoyevsky
+- [x] The Idiot - Dostoyevsky ✅ 2026-02-24
+- [x] The dream of a ridiculous man - Dostoyevsky ✅ 2026-02-24
 - [ ] A thousand splendid sons - Khaled Hoseini
 - [ ] Dance Dance Dance - Murakami
 
 
 ##### Project:
 **Kota**:
-- [ ] Philosophy behind kota and third places
-- [ ] Design Ideas
-- [ ] Main Goal and Objective behind Project
+- [x] Philosophy behind kota and third places ✅ 2026-02-24
+- [x] Design Ideas ✅ 2026-02-24
+- [x] Main Goal and Objective behind Project ✅ 2026-02-24
 
-**mirzahiday.at**:
+**mirzahiday.at**: 
 - [ ] main website: a three js render of my living workspace
-- [ ] visual ctf within the site itself, landing towards some notes in this yappa
+- [x] visual ctf within the site itself, landing towards some notes in this yappa ✅ 2026-02-24
 - [ ] make notes site to play music as people browse - add animations and coffee moves
-- [ ] https://t.co/xgmIjE8NKT wikitok.vercel.app -> built into react native (bro holy shit hetzner is so fucking cheap)
 ##### Yaps:
 - [ ] Notes on https://www.youtube.com/watch?v=S1cWUtgQe_Q (what it means to feel like betraying your life and what you can learn) - listening to yourself
 	- [ ] Relationship of this notion to *how deep you can look under the hood*

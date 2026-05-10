@@ -1,0 +1,1 @@
+> Unrelated note here, but wanted to yap about an idol group that has caught my attention even deeper than before. A sedative for one's lonely life if you could call it.

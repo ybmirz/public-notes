@@ -14,3 +14,5 @@ There are a few lessons other than the glaring internal issue I had with myself,
 5. **Build for the person who has to fix it.**: Engineers don't want "Anomaly detected." They want "Chiller 2 COP dropped 15%—check refrigerant levels." This was something we just recently found out, and we're actively trying to experiment with more ways to understand and design this insight for users of our application.
 
 
+---
+
